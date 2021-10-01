@@ -1,0 +1,17 @@
+__pycache__/
+.vscode
+py1/
+*.pyc
+.vscode/
+.DS_Store
+venv
+venv/
+documentations/
+.idea/
+*/media/*
+*logs*
+logs/
+*bin*
+pylintrc
+logs/gunicorn-error.log
+
